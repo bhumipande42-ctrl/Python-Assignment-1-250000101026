@@ -1,0 +1,7 @@
+# Q27. int(), float(), str()
+a = int(10.9)
+b = float(10)
+c = str(100)
+print(a, type(a))
+print(b, type(b))
+print(c, type(c))

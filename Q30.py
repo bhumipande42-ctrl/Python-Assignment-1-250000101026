@@ -1,0 +1,3 @@
+# Q30. Sum using sum()
+values = [10, 20, 30, 40, 50]
+print("Sum =", sum(values))
